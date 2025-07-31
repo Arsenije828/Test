@@ -137,6 +137,7 @@ header {
     .container {
         .kec {
             text-align: center;
+
             h5 {
                 padding-top: 48px;
                 margin-bottom: 16px;
@@ -242,6 +243,7 @@ header {
 
         div {
 
+
             .name {
                 height: 48px;
                 width: 504px;
@@ -319,572 +321,7 @@ header {
     }
 }
 
-@media only screen and (max-width: 576px) {
-    .container {
-        width: 100% !important;
-        ;
-    }
 
-    header {
-        padding-top: 5px !important;
-
-        nav {
-            padding: 0 15px !important;
-        }
-
-        form {
-            .searchbtn {
-                width: 110px;
-                height: 33px;
-                font-size: 14px
-            }
-        }
-
-
-
-
-
-
-
-
-
-        #headerbottom {
-            text-align: center;
-            margin-top: 5px;
-
-            h1 {
-                margin-top: 15px !important;
-                font-size: 24px !important;
-
-            }
-
-            p {
-                padding: 15px 0 !important;
-                width: 430px;
-                margin: 0 auto;
-            }
-
-            .searchbtn {
-                width: 110px;
-                height: 33px;
-                font-size: 14px;
-                margin: 0 auto;
-            }
-
-            img {
-                margin: 0 auto !important;
-            }
-        }
-    }
-
-
-
-
-
-    #portfolio {
-        .kec {
-            margin-left: 140px;
-
-        }
-
-
-    }
-
-    #grid {
-        display: block !important;
-        margin-left: 80px;
-    }
-
-    #clients {
-
-        .container {
-            width: 100% !important;
-
-            .h {
-                text-align: left;
-
-                h5 {
-                    margin-left: 50px;
-                }
-
-                img {
-                    margin-left: 160px;
-
-
-                }
-
-            }
-
-            .image {
-                width: 100%;
-
-                img {
-                    width: 100%;
-                }
-
-            }
-        }
-    }
-
-    #about {
-        width: 100%;
-
-        hr {
-            width: 330px;
-            margin-left: 60px;
-        }
-
-        h2 {
-            margin-left: 150px;
-        }
-
-        img {
-            width: 10%;
-
-            position: absolute;
-            margin-left: 300px;
-
-
-        }
-
-        p {
-
-            margin-left: 80px;
-            width: 300px;
-            padding-bottom: 30px;
-        }
-    }
-
-    #opinion {}
-
-    #form {
-        .row {
-            display: block !important;
-            width: 100%;
-            margin: 0 auto;
-
-
-        }
-    }
-
-    #footer {
-        .container {
-            align-items: center;
-
-            .log {
-                margin-right: 30px;
-                margin-left: 30px;
-            }
-
-            div {
-                margin-right: 30px;
-            }
-
-            .treci {
-                margin-right: 10px;
-
-            }
-
-
-
-
-        }
-
-
-    }
-
-}
-
-@media only screen and (max-width: 768px) {
-    .container {
-        width: 100% !important;
-        ;
-    }
-
-    header {
-        padding-top: 5px !important;
-
-        nav {
-            padding: 0 15px !important;
-        }
-
-        form {
-            .searchbtn {
-                width: 110px;
-                height: 33px;
-                font-size: 14px
-            }
-        }
-
-
-
-
-
-
-
-
-
-        #headerbottom {
-            text-align: center;
-            margin-top: 5px;
-
-            h1 {
-
-                margin-top: 15px !important;
-                font-size: 24px !important;
-
-            }
-
-
-
-            .searchbtn {
-                width: 110px;
-                height: 33px;
-                font-size: 14px;
-                margin: 0 auto;
-            }
-
-            img {
-
-
-                margin: 0 auto !important;
-            }
-        }
-    }
-
-
-
-
-
-    #portfolio {
-
-        .kec {
-            text-align: center;
-        }
-
-
-
-        #grid {
-            display: block !important;
-            margin-left: 110px;
-        }
-    }
-
-    #clients {
-
-        .container {
-            width: 100% !important;
-
-            .h {
-                text-align: left;
-
-                h5 {
-                    margin-left: 50px;
-                }
-
-                img {
-                    margin-left: 160px;
-
-
-                }
-
-            }
-
-            .image {
-                width: 100%;
-
-                img {
-                    width: 100%;
-                }
-
-            }
-        }
-    }
-
-    #about {
-        width: 100%;
-
-
-        hr {
-            width: 330px;
-            margin-left: 60px;
-        }
-
-        h2 {
-            margin-left: 150px;
-        }
-
-        img {
-            width: 10%;
-
-            position: absolute;
-            margin-left: 300px;
-
-
-        }
-
-        p {
-
-            margin-left: 80px;
-            width: 300px;
-            padding-bottom: 30px;
-        }
-    }
-
-
-
-    #form {
-        .row {
-            display: block !important;
-            width: 100%;
-            margin: 0 auto;
-
-
-        }
-    }
-
-    #footer {
-        .container {
-            align-items: center;
-
-            .log {
-                margin-right: 30px;
-                margin-left: 30px;
-            }
-
-            div {
-                margin-right: 30px;
-            }
-
-            .treci {
-                margin-right: 10px;
-
-            }
-
-
-
-
-        }
-
-
-    }
-
-
-
-}
-
-@media only screen and (max-width: 992px) {
-    .container {
-        width: 100% !important;
-
-    }
-
-    header {
-        padding-top: 5px !important;
-
-        nav {
-            padding: 0 15px !important;
-        }
-
-        form {
-            .searchbtn {
-                width: 110px;
-                height: 33px;
-                font-size: 14px
-            }
-        }
-
-
-
-
-
-
-
-
-
-        #headerbottom {
-            text-align: left;
-            margin-top: 5px;
-            display: flex;
-
-            .row {
-                display: flex;
-
-                div {
-                    width: 50%;
-                }
-            }
-
-            h1 {
-
-                margin-top: 15px !important;
-                font-size: 34px !important;
-
-            }
-
-
-
-            .searchbtn {
-                width: 130px;
-                height: 40px;
-                font-size: 17px;
-                margin-bottom: 40px;
-
-            }
-
-            img {
-                width: 50%;
-
-
-
-
-
-            }
-        }
-    }
-
-
-
-
-
-    #portfolio {
-
-        .kec {
-            text-align: center;
-        }
-
-
-
-        #grid {
-
-            display: grid !important;
-            grid-template-columns: auto auto !important;
-            margin-left: 15px;
-
-        }
-    }
-
-    #clients {
-
-        .container {
-            width: 100% !important;
-
-            .h {
-                text-align: left;
-
-                h5 {
-                    margin-left: 150px;
-                }
-
-                img {
-                    margin-left: 260px;
-
-
-                }
-
-            }
-
-            .image {
-                width: 100%;
-
-                img {
-                    width: 100%;
-                }
-
-            }
-        }
-    }
-
-    #about {
-        width: 100%;
-
-        .row {
-            display: flex;
-
-
-        }
-
-        .pari {
-
-            width: 60%;
-
-        }
-
-
-        hr {
-            width: 330px;
-            margin-left: 60px;
-        }
-
-        h2 {
-            margin-left: 150px;
-        }
-
-        .techno {
-            width: 40%;
-
-            text-align: left;
-
-            img {
-                margin-top: 150px;
-                width: 100%;
-
-
-
-
-
-            }
-        }
-
-        p {
-
-            margin-left: 80px;
-            width: 300px;
-            padding-bottom: 30px;
-        }
-    }
-
-
-
-    #form {
-        .row {
-            display: block !important;
-            width: 100%;
-            margin: 0 auto;
-
-
-        }
-    }
-
-    #footer {
-        .container {
-            align-items: center;
-
-            .log {
-                margin-right: 30px;
-                margin-left: 30px;
-            }
-
-            div {
-                margin-right: 30px;
-            }
-
-            .treci {
-                margin-right: 10px;
-
-            }
-
-
-
-
-        }
-
-
-    }
-
-
-
-}
 
 @media only screen and (max-width: 1200px) {
     .container {
@@ -1099,3 +536,596 @@ header {
 
 }
 
+
+
+@media only screen and (max-width: 992px) {
+    .container {
+        width: 100% !important;
+
+    }
+
+    header {
+        padding-top: 5px !important;
+
+        nav {
+            padding: 0 15px !important;
+        }
+
+        form {
+            .searchbtn {
+                width: 110px;
+                height: 33px;
+                font-size: 14px
+            }
+        }
+
+        #headerbottom {
+            text-align: left;
+            margin-top: 5px;
+            display: flex;
+
+            .row {
+                display: flex;
+
+                div {
+                    width: 50%;
+                }
+            }
+
+            h1 {
+
+                margin-top: 15px !important;
+                font-size: 34px !important;
+
+            }
+
+
+
+            .searchbtn {
+                width: 130px;
+                height: 40px;
+                font-size: 17px;
+                margin-bottom: 40px;
+
+            }
+
+            img {
+                width: 50%;
+
+
+
+
+
+            }
+        }
+    }
+
+
+
+
+
+    #portfolio {
+
+        .kec {
+            text-align: center;
+        }
+
+
+
+        #grid {
+
+            display: grid !important;
+            grid-template-columns: auto auto !important;
+            margin-left: 15px;
+
+        }
+    }
+
+    #clients {
+
+        .container {
+            width: 100% !important;
+
+            .h {
+                text-align: left;
+
+                h5 {
+                    margin-left: 150px;
+                }
+
+                img {
+                    margin-left: 260px;
+
+
+                }
+
+            }
+
+            .image {
+                width: 100%;
+
+                img {
+                    width: 100%;
+                }
+
+            }
+        }
+    }
+
+    #about {
+        width: 100%;
+
+        .row {
+            display: flex;
+
+
+        }
+
+        .pari {
+
+            width: 60%;
+
+        }
+
+
+        hr {
+            width: 330px;
+            margin-left: 60px;
+        }
+
+        h2 {
+            margin-left: 60px;
+        }
+
+        .techno {
+            width: 40%;
+
+            text-align: left;
+
+            img {
+                margin-top: 150px;
+                width: 100%;
+
+
+
+
+
+            }
+        }
+
+        p {
+
+            margin-left: 80px;
+            width: 300px;
+            padding-bottom: 30px;
+        }
+    }
+
+
+
+    #form {
+        .row {
+            display: block !important;
+            width: 100%;
+            margin: 0 auto;
+
+
+        }
+    }
+
+    #footer {
+        .container {
+            align-items: center;
+
+            .log {
+                margin-right: 30px;
+                margin-left: 30px;
+            }
+
+            div {
+                margin-right: 30px;
+            }
+
+            .treci {
+                margin-right: 10px;
+
+            }
+
+
+
+
+        }
+
+
+    }
+
+
+
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 100% !important;
+        ;
+    }
+
+    header {
+        padding-top: 5px !important;
+
+        nav {
+            padding: 0 15px !important;
+        }
+
+        form {
+            .searchbtn {
+                width: 110px;
+                height: 33px;
+                font-size: 14px
+            }
+        }
+
+        #headerbottom {
+            text-align: center;
+            margin-top: 5px;
+
+            h1 {
+
+                margin-top: 15px !important;
+                font-size: 24px !important;
+
+            }
+
+
+
+            .searchbtn {
+                width: 110px;
+                height: 33px;
+                font-size: 14px;
+                margin: 0 auto;
+                margin-bottom: 30px;
+            }
+
+            img {
+
+
+                margin: 0 auto !important;
+            }
+        }
+    }
+
+
+
+
+
+    #portfolio {
+
+        .kec {
+            text-align: center;
+        }
+
+
+
+        #grid {
+            display: block !important;
+            margin-left: 110px;
+        }
+    }
+
+    #clients {
+
+        .container {
+            width: 100% !important;
+
+            .h {
+                text-align: left;
+
+                h5 {
+                    margin-left: 50px;
+                }
+
+                img {
+                    margin-left: 160px;
+
+
+                }
+
+            }
+
+            .image {
+                width: 100%;
+
+                img {
+                    width: 100%;
+                }
+
+            }
+        }
+    }
+
+    #about {
+        width: 100%;
+
+        #technologies {
+            width: 10%;
+
+            img {
+                width: 1%;
+            }
+        }
+
+        #bbm {}
+
+        hr {
+            width: 330px;
+            margin-left: 60px;
+        }
+
+        h2 {
+            margin-left: 150px;
+        }
+
+        img {
+            width: 10%;
+
+            position: absolute;
+            margin-left: 300px;
+
+
+        }
+
+        p {
+
+            margin-left: 80px;
+            width: 300px;
+            padding-bottom: 30px;
+        }
+    }
+
+
+
+    #form {
+        .row {
+            display: block !important;
+            width: 100%;
+            margin: 0 auto;
+
+
+        }
+    }
+
+    #footer {
+        .container {
+            align-items: center;
+
+            .log {
+                margin-right: 30px;
+                margin-left: 30px;
+            }
+
+            div {
+                margin-right: 30px;
+            }
+
+            .treci {
+                margin-right: 10px;
+
+            }
+
+
+
+
+        }
+
+
+    }
+
+
+
+}
+
+
+@media only screen and (max-width: 576px) {
+    .container {
+        width: 100% !important;
+        ;
+    }
+
+    header {
+        padding-top: 5px !important;
+
+        nav {
+            padding: 0 15px !important;
+        }
+
+        form {
+            .searchbtn {
+                width: 110px;
+                height: 33px;
+                font-size: 14px
+            }
+        }
+
+        #headerbottom {
+
+            text-align: center;
+            margin-top: 5px;
+
+            h1 {
+
+                margin-top: 15px !important;
+                font-size: 24px !important;
+
+            }
+
+            p {
+                padding: 15px 0 !important;
+                width: 350px;
+                margin: 0 auto;
+            }
+
+            .searchbtn {
+                width: 110px;
+                height: 33px;
+                font-size: 14px;
+                margin: 0 auto;
+            }
+
+            img {
+                margin-right: 230px !important;
+            }
+
+            #broj {
+                width: 100%;
+                text-align: center;
+            }
+
+            #portrait {
+                width: 100%;
+                margin-left: 120px;
+
+
+            }
+        }
+    }
+
+
+
+
+
+    #portfolio {
+        .kec {
+            margin: 0 auto;
+
+        }
+
+        #grid {
+            display: block !important;
+            margin-left: 80px;
+
+        }
+
+
+
+    }
+
+
+
+
+
+    #clients {
+
+        .container {
+            width: 100% !important;
+
+            .h {
+                text-align: left;
+
+                h5 {
+                    margin-left: 50px;
+                }
+
+                img {
+                    margin-left: 160px;
+
+
+                }
+
+            }
+
+            .image {
+                width: 100%;
+
+                img {
+                    width: 100%;
+                }
+
+            }
+        }
+    }
+
+    #about {
+        width: 100% hr {
+            width: 330px;
+            margin-left: 60px;
+        }
+
+        h2 {
+            margin-right: 150px;
+        }
+
+        img {
+            width: 10%;
+
+            position: absolute;
+            margin-left: 300px;
+
+
+        }
+
+        p {
+
+            margin-left: 80px;
+            width: 300px;
+            padding-bottom: 30px;
+        }
+
+        .row {
+            width: 100%;
+
+        }
+
+        #technologies {
+            position: absolute;
+
+            img {
+                width: 1%;
+            }
+        }
+
+        #bbm {
+            position: relative;
+            text-align: center;
+            width: 100%;
+
+        }
+
+    }
+
+
+#opinion {}
+
+#form {
+    .row {
+        display: block !important;
+        width: 100%;
+        margin: 0 auto;
+
+
+    }
+}
+
+#footer {
+    .container {
+        align-items: center;
+
+        .log {
+            margin-right: 30px;
+            margin-left: 30px;
+        }
+
+        div {
+            margin-right: 30px;
+        }
+
+        .treci {
+            margin-right: 10px;
+
+        }
+
+
+
+
+    }
+
+
+}
